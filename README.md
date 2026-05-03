@@ -21,3 +21,9 @@ Live demo -
 │── index.html
 │── style.css
 │── script.js
+
+💡 Use Cases
+Dashboard notifications
+Social media apps
+E-commerce alerts
+Admin panels
