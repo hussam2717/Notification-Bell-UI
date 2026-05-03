@@ -33,3 +33,6 @@ Dashboard notifications
 Social media apps
 E-commerce alerts
 Admin panels
+
+🤝 Contributing
+Feel free to fork this repo and improve it. Contributions are always welcome!
