@@ -1,7 +1,7 @@
 # Notification-Bell-UI
 A modern and interactive **Notification Bell UI component** built using HTML, CSS, and JavaScript. This project simulates real-world notification systems used in web applications.
 
-Live demo -
+Live demo -https://hussam2717.github.io/Notification-Bell-UI/
 
 ## ✨ Features
 - 🔔 Clickable notification bell
