@@ -16,3 +16,8 @@ Live demo -
 - HTML5
 - CSS3 (Flexbox, Animations)
 - JavaScript (DOM Manipulation)
+
+## 📂 Project Structure
+│── index.html
+│── style.css
+│── script.js
