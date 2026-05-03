@@ -11,3 +11,8 @@ Live demo -
 - 🎨 Clean and modern UI design
 - ⚡ Smooth animations and transitions
 - 📱 Responsive layout
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox, Animations)
+- JavaScript (DOM Manipulation)
