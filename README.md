@@ -22,6 +22,12 @@ Live demo -
 │── style.css
 │── script.js
 
+📌 Future Improvements
+🔴 Unread notification counter badge
+🔊 Sound alerts
+🌐 Backend integration (API)
+🧠 Real-time notifications (WebSockets)
+
 💡 Use Cases
 Dashboard notifications
 Social media apps
