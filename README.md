@@ -22,13 +22,13 @@ Live demo -https://hussam2717.github.io/Notification-Bell-UI/
 │── style.css
 │── script.js
 
-📌 Future Improvements
+## 📌 Future Improvements
 🔴 Unread notification counter badge
 🔊 Sound alerts
 🌐 Backend integration (API)
 🧠 Real-time notifications (WebSockets)
 
-💡 Use Cases
+## 💡 Use Cases
 Dashboard notifications
 Social media apps
 E-commerce alerts
